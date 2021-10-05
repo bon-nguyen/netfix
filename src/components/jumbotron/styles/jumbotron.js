@@ -37,6 +37,7 @@ export const Title = styled.h1`
   line-height: 1.1;
   margin-bottom: .5rem;
   color: #fff;
+  margin-top: 0;
 
   @media (max-width: ${variables.TB}){
     font-size: 2.5rem;
